@@ -1,0 +1,7 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" name="SS" file="AZI/AZI_0_0.vtp"/>
+    <DataSet index="1" name="TF" file="AZI/AZI_1_0.vtp"/>
+    <DataSet index="2" name="TS" file="AZI/AZI_2_0.vtp"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>

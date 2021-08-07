@@ -1,6 +1,6 @@
-## ParaView-RinjaniTambora
+## ParaView Rijani Tambora
 
-[ParaView](https://www.paraview.org/download/) project for Rinjani and Tambora volcanoes area, Indonesia.
+[ParaView](https://www.paraview.org/download/) project for Rijani and Tambora volcanoes area, Indonesia.
 
 ## Provided datasets ([EPSG:32750 WGS 84 / UTM zone 50S](https://epsg.io/32750))
 
